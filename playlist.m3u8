@@ -1,0 +1,92 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXTINF:-1 group-title="Россия",Atameken (Казахстан)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия",СТВ Казахстан
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:-1 group-title="Россия",Твое ТВ (Казахстан)
+https://sc.id-tv.kz/TvoeTV_38_39.m3u8
+#EXTINF:-1 group-title="Россия",Atameken (Казахстан)
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Россия",СТВ Казахстан
+https://sc.id-tv.kz/STV_38_39.m3u8
+#EXTINF:0 group-title="Казахстан",БСТ 
+http://bsttv.bonus-tv.ru:80/cdn/bst/tracks-v1a1/index.m3u8 
+#EXTINF:0 tvg-id="pervy-kanal-eurasia-kz" group-title="Казахстан",Первый канал (Евразия) 
+http://sc.id-tv.kz/1KanalEvraziya_36_37.m3u8 
+#EXTINF:0 group-title="Казахстан",Мир +3 (Казахстан) 
+http://sc.id-tv.kz/Mir_36_37.m3u8 
+#EXTINF:0 group-title="Казахстан",Ирбис ТВ 
+http://sc.id-tv.kz/Irbis_36_37.m3u8 
+#EXTINF:0 group-title="Казахстан",КТК ТВ 
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8 
+#EXTINF:0 tvg-id="7kanal-kz" group-title="Казахстан",7 Канал 
+http://78.40.108.218/7channel/index.m3u8 
+#EXTINF:0 tvg-id="almaty" group-title="Казахстан",Аlmaty TV 
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8 
+#EXTINF:0 group-title="Казахстан",Kazakh TV 
+http://kazakhtvru.ultraiptv.com/live_ru/playlist3/index.m3u8 
+#EXTINF:0 group-title="Казахстан",Astana TV 
+https://sc.id-tv.kz/astana.m3u8 
+#EXTINF:0 group-title="Казахстан",ON! Пятница 
+http://sc.id-tv.kz/Tan.m3u8 
+#EXTINF:0 group-title="Казахстан",31 Канал 
+http://sc.id-tv.kz/31channel_36_37.m3u8 
+#EXTINF:0 group-title="Казахстан",Atameken 
+http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8 
+#EXTINF:0 group-title="Казахстан",Tumar TV 
+http://ip.tumar.tv/hls/mstream.m3u8 
+#EXTINF:0 group-title="Казахстан",СТВ 
+https://sc.id-tv.kz:443/STV.m3u8 
+#EXTINF:0 group-title="Казахстан",Bazar TV 
+http://sc.id-tv.kz/BazarTV_36_37.m3u8 
+#EXTINF:0 tvg-id="xabar" group-title="Казахстан",Хабар 
+http://sc.id-tv.kz/Habar_36_37.m3u8 
+#EXTINF:0 tvg-id="xabar24" group-title="Казахстан",Хабар 24 
+http://stream.euroasia.lfstrm.tv/24_kz/1/index.m3u8 
+#EXTINF:0 group-title="Казахстан",Халык Арна 
+http://sc.id-tv.kz/HalykArna_36_37.m3u8 
+#EXTINF:0 tvg-id="toy-duman" group-title="Казахстан",Той Думан 
+http://stream.euroasia.lfstrm.tv/toy_duman/1/index.m3u8 
+#EXTINF:0 tvg-id="tvoyo-tv-kz" group-title="Казахстан",Твое ТВ 
+http://sc.id-tv.kz/TvoeTV_36_37.m3u8 
+#EXTINF:0 tvg-id="tdk-42" group-title="Казахстан",ТДК 42 
+http://stream.euroasia.lfstrm.tv/tdk_42/1/index.m3u8 
+#EXTINF:-1 player="1" vsize="FHD" type="select" delay="2074" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/a/atameken_business_channel_hd.png",Atameken Business Channel HD
+#EXTINF:-1 player="1" vsize="HD" type="select" delay="1871" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/k/kөkshetau.png",Kөкшетау
+#EXTINF:-1 player="1" vsize="" type="select" delay="1484" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/p/pavlodar.png",Павлодар
+#EXTINF:-1 player="1" vsize="" type="select" delay="1399" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/қ/қostanaj.png",Қостанай
+https://kaztv.rtrk.kz/regional/kostanaytv/index.m3u8
+#EXTINF:-1 player="1" vsize="" type="select" delay="1400" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/қ/қyzylorda.png",Қызылорда
+https://kaztv.rtrk.kz/regional/kyzylordatv/index.m3u8
+#EXTINF:-1 group-title="Казахстан",31
+http://sc.id-tv.kz/31channel.m3u8
+#EXTINF:-1 group-title="Казахстан",Almaty TV HD
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан",Новое Телевидение
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 group-title="Новости",Первый (Казахстан)
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1 group-title="Региональные",Мир+3(Казахстан)
+http://sc.id-tv.kz/Mir_36_37.m3u8
+#EXTINF:-1 group-title="Музыкальные",ТвоеТВ(Казахстан)
+http://sc.id-tv.kz/TvoeTV_36_37.m3u8
+#EXTINF:-1 player="1" vsize="FHD" type="select" delay="2074" group-title="КАЗАХСТАН" tvg-logo="http://ekzot.ucoz.net/ch_icons/a/atameken_business_channel_hd.png",Atameken Business Channel HD
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт
+https://iptvmaster.ru/sport.m3u
+#EXTINF:-1 group-title="российские",российские
+https://iptv-russia.ru/list/ru-all.m3u
+
+
+
+
+
+
+
+
+
+
+
+
